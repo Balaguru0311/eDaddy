@@ -257,7 +257,10 @@ p {
       bottom:100px;
       width:350px;
     }
-    
+    .column2{
+      margin-top:20px;
+      margin-left: 50px;
+    }
   
   }
   @media (max-width:1200px){
@@ -273,10 +276,7 @@ p {
       left:175px;
       bottom:100px;
     }
-    .column2{
-      margin-top:20px;
-      margin-left: 50px;
-    }
+    
   }
   
 
